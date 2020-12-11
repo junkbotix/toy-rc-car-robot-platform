@@ -1,0 +1,7 @@
+# Notes on Fasteners
+
+When you need to remove a screw (or bolt), I have mentioned putting the screw back from where it came from - that is, once the part is removed, put the screw back in the hole, and loosely thread it back into place (do not overly torque it down, as this can strip or distort the threads of either the hole or the screw, or in the case of "blind holes", it can crack plastic or cast parts). Be sure to also thread the same type, size, and thread of screw into the hole it came from. Do not neglect this, as threading the wrong screw into the wrong hole can cause issues with tightness, distortion of the hole, threads, or screw...among other issues.
+
+Sometimes, screws may hold multiple "stacked" parts together. In such a case, it is best to thread the screw back into the hole once all parts are removed, but keep careful track of it until you get to that point (and when you have to put things back together). Taking notes and pictures can be very helpful when reassembling later.
+
+Finally, if you need to remove the screws and set them aside, put each "set" into a small container or cup of some sort. An egg carton can work great for this purpose (especially if you label each compartment you put the screws in). Also, a small magnet can hold steel screws while you work and keep them from rolling away. Placing one in the bottom of the container (or using a small automotive magnetic nut and screw dish) can be very handy.
