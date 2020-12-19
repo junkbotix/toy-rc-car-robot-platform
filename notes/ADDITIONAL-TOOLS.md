@@ -16,4 +16,4 @@ https://www.amazon.com/Infrared-Thermometer-Helect-Non-Contact-Temperature/dp/B0
 
 The one I have I actually purchased at Harbor Freight, but this one is very similar. I honestly don't know how accurate it is, but I use it more for "is it too hot to touch" and "is the temperature changing" - especially in places where access may not be easy, or is potentially dangerous.
 
-####NOTE: These kinds of "non-contact" probes are not meant to be able to measure human temperature levels. DO NOT use them to attempt to check for fever or anything like that. They are NOT designed for such usages, and may give misleading or WRONG results.
+#### NOTE: These kinds of "non-contact" probes are not meant to be able to measure human temperature levels. DO NOT use them to attempt to check for fever or anything like that. They are NOT designed for such usages, and may give misleading or WRONG results.
