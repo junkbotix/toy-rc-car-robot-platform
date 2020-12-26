@@ -8,7 +8,7 @@ Check out the latest on this project and tutorial at the [Junkbotix Channel](htt
 
 * [Steering](./steering)
 * [Interfacing](./interfacing)
-* [Code](./code)
+* [Software](./software)
 * [Datasheets](./datasheets)
 * [Notes](./notes)
 
