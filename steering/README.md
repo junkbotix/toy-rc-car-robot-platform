@@ -28,3 +28,7 @@ As a final note, I have never seen any other toy RC vehicle that used this chips
 My best guess is that these wires serve in some manner to inhibit or "limit" the h-bridge output, perhaps to prevent it from drawing too much current, or maybe to automatically center it, or something of that nature.
 
 Until I can reverse-engineer a schematic for that section of the controller board (not a trivial task), it may remain a mystery. Further testing of direct control may reveal additional clues, too.
+
+## More thoughts
+
+After doing the fixes to the wiring, adding a battery, and turning it on, I noticed that the vehicle automatically "recentered" the front wheels. I believe this is actually the purpose of the additional wires, a kind of primitive servomechanism system to keep the car going straight when the steering actuator isn't active (being steered left or right). It might be that due to the size of the vehicle (larger than many or most TX2/RX2 chipset RC vehicles), it needed this kind of system to make it drivable at speed. Again, all of this is a guess without an actual schematic. I do find it a fascinating aspect of the platform!
