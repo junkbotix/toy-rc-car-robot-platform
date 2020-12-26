@@ -4,7 +4,7 @@
 
 Before using these examples, be sure to check out the section on "Direct Signal Injection":
 
-[Direct Signal Injection](../interfacing/signal-injection)
+[Direct Signal Injection](../../interfacing/signal-injection)
 
 This is one of the Arduino boards (Duemilanove) I used:
 
