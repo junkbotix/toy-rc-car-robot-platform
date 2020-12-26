@@ -10,6 +10,8 @@ https://github.com/dimircea/RX2-TX2-RC
 
 https://github.com/monsieurDavid/rx2-hacks
 
+And my own [implementation](../../software/arduino)...
+
 ## Pins to use:
 
 ![functions](./dsi-pins-2-3-13.jpg)
