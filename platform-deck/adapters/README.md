@@ -36,7 +36,7 @@ Both the adapters use the same screws and nuts, and such commonality is somethin
 
 You can see how I "gooped" over the heads of the screws to help "lock" them in place on the bottom. This helps to prevent the screw from coming loose as you use and position the adapter on your deck.
 
-## Adapters Mounted on Deck
+## Adapters Mounted
 ![](./images/adapters-mounted-960px.jpg)
 
 Here are the two adapters mounted together on the robot's deck. Note the orientation of the adapters and the boards. This can all now be quickly changed and updated at will.

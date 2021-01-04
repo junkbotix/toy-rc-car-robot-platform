@@ -72,6 +72,12 @@ Whatever type or size plate you select, you can (in theory) replicate the hole p
 
 This file presents a number of materials, their properties, relative costs, and other information in a tabular format. It provides a quick and easy overview of what you can use to fabricate your deck.
 
+## Adapters
+
+* [Mounting Adapters](./adapters)
+
+This file discusses the need for building adapters to mount components on to a deck. A simple example implementation is also presented in detail.
+
 ## Custom Standoffs
 
 * [Standoffs](./STANDOFFS.md)
