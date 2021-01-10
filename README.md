@@ -26,16 +26,22 @@ Check out the latest on this project and tutorial at the [Junkbotix Channel](htt
 
 <br>
 
-## Electronics Interface / Software
+## Electronics
 
 * [Interfacing](./interfacing)
+* [Sensors](./sensors)
 * [Datasheets](./datasheets)
-* [Software](./software)
-
-<br>
 
 ![PCB](./images/pcb-640px.jpg)
 
 ![Breadboard Interface](./images/interface-640px.jpg)
 
 ![Schematic](./images/schematic-640px.jpg)
+
+![Sensors](./images/sensors-640px.jpg)
+
+<br>
+
+## Software
+
+* [Software](./software)
